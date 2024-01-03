@@ -47,7 +47,7 @@
 
 ## Output:
 ![WhatsApp Image 2024-01-03 at 12 24 10_dd65b8f9](https://github.com/23000966/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/153983364/82ae584b-a011-472b-9261-0e51d16eef16)
-[santhosh.pdf](https://github.com/23000966/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/files/13816473/santhosh.pdf)
+![image](https://github.com/23000966/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/153983364/e1a16776-6d84-4799-992f-35ac6a65c525)
 
 
 ### Name: SANTHOSH KUMAR R
